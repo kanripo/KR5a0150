@@ -1,7 +1,8 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:39:11.949355
+# -*- mode: mandoku-view -*-
 #+TITLE: 修真太極混元圖
-#+PROPERTY: DZID  DZ0149
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—93 一卷 洞真部靈圖類
+#+DATE: 2015-08-28 23:39:12
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+<md:KR5a0150_HFL_001-001a>¶<pb:KR5a0150_SJB_001-030093c>
+
